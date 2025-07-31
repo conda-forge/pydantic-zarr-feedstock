@@ -1,5 +1,5 @@
 {% set name = "pydantic-zarr" %}
-{% set version = "0.7.0" %}
+{% set version = "0.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/pydantic_zarr-{{ version }}.tar.gz
-  sha256: fdb0129722d5a3454f5107de56ec8370a7dc8ccb3fa34f2729632ed4f8da3acd
+  sha256: 63103c341e260cfafcd606a394286b196271459054508d6160ec7bc0493eb197
 
 build:
   noarch: python
