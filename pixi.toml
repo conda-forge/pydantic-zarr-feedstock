@@ -7,7 +7,7 @@
 
 [project]
 name = "pydantic-zarr-feedstock"
-version = "3.52.0"  # conda-smithy version used to generate this file
+version = "3.52.1"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/pydantic-zarr-feedstock"
 authors = ["@conda-forge/pydantic-zarr"]
 channels = ["conda-forge"]
