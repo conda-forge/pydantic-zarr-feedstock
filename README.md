@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@d-v-b](https://github.com/d-v-b/)
+* [@dstansby](https://github.com/dstansby/)
 * [@imagejan](https://github.com/imagejan/)
 
