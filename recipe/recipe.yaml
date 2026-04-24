@@ -28,7 +28,7 @@ requirements:
     - python >=${{ python_min }}
     - zarr >=3.0.0,<4.0.0
     - pydantic >=2.0.0,<3.0.0
-    - numpy >=1.24.0
+    - numpy >=2.0.0
     - packaging >=21.0
 
 tests:
