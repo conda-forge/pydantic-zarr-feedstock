@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: pydantic-zarr
-  version: "0.10.0"
+  version: "0.11.0"
   python_min: '3.12'
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/pydantic_zarr-${{ version }}.tar.gz
-  sha256: 996b5b4225fb05757e7fff831ee7a75c61f54514a4c2493c7b79635bade7b415
+  sha256: 04598e5242ebb9094ca0bbf7c2fe50ff8a7efc1d0473eb7355d3a7841bfe786f
 
 build:
   number: 0
